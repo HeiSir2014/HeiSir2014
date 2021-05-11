@@ -1,13 +1,13 @@
-### 资深沪飘程序猿
+### 沪飘程序猿
 
-#### 音视频相关
+#### 音视频相关 🌱 
 - 流媒体
 - 播放器
-- WebRTC
-#### AI CV方向
+- WebRTC / OWT / RTC
+#### AI CV方向 ⚡
 - 图像分割
 - 图像分类
-#### 产品
+#### 产品 🔭
 - [直播监控录像](http://zhibo.heisir.cn)
 - [M3U8-Download](https://tools.heisir.cn/HLSDownload)
 - [开源视频会议](https://github.com/HeiSir2014/owt-client-rtc/releases/)
