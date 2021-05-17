@@ -22,5 +22,5 @@
 [![heisir's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeiSir2014)](https://github.com/HeiSir2014)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeiSir2014)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeiSir2014)](https://github.com/HeiSir2014)
 
