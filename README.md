@@ -1,4 +1,4 @@
-### 沪飘程序猿
+### 沪飘程序猿 ![Page Views Count](https://badges.toozhao.com/badges/01F5XF8BSBTTESEAWBFEWPCZN6/orange.svg)
 
 #### 音视频相关 🌱 
 - 流媒体
@@ -17,17 +17,10 @@
 #### 服务大众
 - [软件定制](https://heisir.cn/trade)
 - [视觉设计、产品拍摄、后期](http://heisir.cn/taobao/)
-<!--
-**HeiSir2014/HeiSir2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![heisir's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeiSir2014)](https://github.com/HeiSir2014)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeiSir2014)
+
